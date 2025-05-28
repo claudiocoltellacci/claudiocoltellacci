@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning for Finance**
 
-- 👨‍💻 All of my projects are available at [https://github.com/claudiocoltellacci/claudiocoltellacci](https://github.com/claudiocoltellacci/claudiocoltellacci)
+- 👨‍💻 All of my projects are available at [https://github.com/claudiocoltellacci](https://github.com/claudiocoltellacci)
 
 - 💬 Ask me about **Use of LLMs combined with RDF Knowledge Graphs**
 
